@@ -11,6 +11,8 @@ profile:
   more_info: >
     <p>Shuhong Dai (戴书鸿)</p>
     <p>Distributed Systems Group</p>
+    <p>North China Electric Power University</p>
+    <p>School of Control and Computer Engineering</p>
     <p>Changping District, Beijing, China</p>
     <p>daishuhong02@ncepu.edu.cn</p>
 
