@@ -3,7 +3,7 @@ name: Docker Slim
 #Only trigger, when the build workflow succeeded
 on:
   workflow_run:
-    workflows: ["Docker Image CI"]
+    workflows: ['Docker Image CI']
     types:
       - completed
 
@@ -45,7 +45,7 @@ jobs:
           DSLIM_CONTINUE_AFTER: signal
         with:
           target: amirpourmand/al-folio
-          tag: "slim"
+          tag: 'slim'
 
       # Push to the registry
       - run: docker image push amirpourmand/al-folio:slim

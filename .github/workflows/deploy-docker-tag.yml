@@ -3,14 +3,14 @@ name: Docker Image CI (Upload Tag)
 on:
   push:
     tags:
-      - "v*"
+      - 'v*'
     paths:
-      - "bin/entry_point.sh"
-      - "Dockerfile"
-      - "Gemfile"
-      - "Gemfile.lock"
-      - "package.json"
-      - "package-lock.json"
+      - 'bin/entry_point.sh'
+      - 'Dockerfile'
+      - 'Gemfile'
+      - 'Gemfile.lock'
+      - 'package.json'
+      - 'package-lock.json'
 
 jobs:
   build:
