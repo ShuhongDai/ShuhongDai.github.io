@@ -2,8 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: |
+  <a href='http://182.92.109.163/'>Distributed Systems Group</a><br>
+  <a href='https://en.wikipedia.org/wiki/North_China_Electric_Power_University'>North China Electric Power University</a><br>
+  Address<br>
+  Contacts<br>
+  Moto<br>
+  Etc.
+  
 profile:
   align: right
   image: microsoft.png
