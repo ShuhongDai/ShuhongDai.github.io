@@ -17,7 +17,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
 <!--
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
@@ -27,4 +26,4 @@ social: true # includes social icons at the bottom of the page
 
 I am a master's student in the School of Control and Computer Engineering at [North China Electric Power University](https://en.wikipedia.org/wiki/North_China_Electric_Power_University), currently pursuing my master's degree in Software Engineering. I received my Bachelor's degree in Electrical Engineering and Automation in 2023, and my research thesis on fuzzy control was awarded the title of Excellent Graduation Thesis.
 
-Currently, I am conducting research under the supervision of [Prof. Long Cheng](https://longcheng.eu/) in the [Distributed Systems Group](http://182.92.109.163/) he leads. My work focuses on performance optimization, and my current research areas include deep learning, cloud computing, and intelligent transportation systems.
+Currently, I am conducting research under the supervision of [Prof. Long Cheng](https://longcheng.eu/) in the [Distributed Systems Group](http://182.92.109.163/) he leads. My work focuses on performance optimization, and my current research areas include deep reinforcement learning, cloud computing, and intelligent transportation systems.
