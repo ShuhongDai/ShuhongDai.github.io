@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-As an Attendee participated in Microsoft AI Day Beijing.
+Participated in Microsoft AI Day Beijing.
