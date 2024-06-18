@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won the third prize for Problem G: "Non-contact Object Measurement Device" at the National Undergraduate Electronics Indesign Contest.
+Won the 3rd prize for Problem G: "Non-contact Object Measurement Device" at the 8th National Undergraduate Electronics Indesign Contest.
